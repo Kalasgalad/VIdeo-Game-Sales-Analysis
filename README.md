@@ -32,7 +32,8 @@ The mystery of Wii Sports ensues...
 
 ## Data Source
 
-The Data used comes from a dataset on kaggle.com
+The Data used comes from a dataset on kaggle.com:
+
   [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
   
   The dataset provides numerous historical values across publishers, genres, sales, and release year.
