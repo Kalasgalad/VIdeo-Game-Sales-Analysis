@@ -52,4 +52,6 @@ This analysis uses one main language and a few packages for its breakdown:
 - 'README.md' file: Project Overview, tools and methods, questions and summary of insights.
 - 'Video Game Sales Analysis.ipynb': Notebook containing research questions, analysis and visualization.
 
-## Authored by: Alexandre Rioux
+## Authored by:
+
+Alexandre Rioux
