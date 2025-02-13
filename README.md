@@ -41,10 +41,11 @@ The Data used comes from a dataset on kaggle.com:
 ## Tools
 
 This analysis uses one main language and a few packages for its breakdown:
-  *Language*: Python
-  *Packages*: Pandas, Numpy
-  *Visualization*: Matplotlib, Seaborn
-  *Analyzed with*: Jupyter Notebook
+
+   - *Language*: Python
+   -  *Packages*: Pandas, Numpy
+   -  *Visualization*: Matplotlib, Seaborn
+   -  *Analyzed with*: Jupyter Notebook
 
 ## Repository Files
 
